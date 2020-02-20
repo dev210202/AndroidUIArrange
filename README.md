@@ -10,3 +10,5 @@
 ### TextView
 #### 몇초마다 자동으로 텍스트뷰 변하게하기 [1](https://github.com/rosenpin/fading-text-view) 
 
+### EditText
+#### EditText부분 floating 액션 넣기 [1](https://github.com/florent37/MaterialTextField)
