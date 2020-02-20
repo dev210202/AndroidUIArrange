@@ -3,3 +3,6 @@
 
 ### Button
 #### 버튼 클릭시 말풍선 보이게하기(툴팁) [1](https://github.com/skydoves/Balloon) [2](https://androiddvlpr.com/android-tooltip-library/)
+
+### TextView
+#### 몇초마다 자동으로 텍스트뷰 변하게하기 [1](https://github.com/rosenpin/fading-text-view) 
