@@ -1,5 +1,5 @@
 # AndroidUIArrange
-안드로이드 UI관련 참고용 페이지들을 정리하는 저장소입니다.
+안드로이드 UI관련 참고용 오픈소스 페이지들을 정리하는 저장소입니다.
 
 ### Layout
 #### 아래에서 위로 올라오는 슬라이딩 페이지 만들기 [1](https://github.com/rosenpin/fading-text-view) [2](https://gwynn.tistory.com/12)
