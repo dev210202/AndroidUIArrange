@@ -14,4 +14,4 @@
 #### EditText부분 floating 액션 넣기 [1](https://github.com/florent37/MaterialTextField)
 
 ### ScrollablePanel
-#### 엑셀표처럼   [1](https://github.com/Kelin-Hong/ScrollablePanel)
+#### 엑셀표처럼 만들기   [1](https://github.com/Kelin-Hong/ScrollablePanel)
