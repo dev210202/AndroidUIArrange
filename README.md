@@ -15,3 +15,6 @@
 
 ### ScrollablePanel
 #### 엑셀표처럼 만들기   [1](https://github.com/Kelin-Hong/ScrollablePanel)
+
+### ExpandableTextView
+#### 텍스트뷰 축소/확장 [1](https://github.com/Manabu-GT/ExpandableTextView)
